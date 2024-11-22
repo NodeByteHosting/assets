@@ -86,6 +86,7 @@
     {
         "section": "Trouble Shooting",
         "about": "This section contains articles related to troubleshooting.",
+        "slug": "trouble-shooting",
         "articles": [
             {
                 "slug": "console-not-loading",
