@@ -24,6 +24,20 @@
                 "description": "This article will guide you on how to cancel a PayPal subscription in the billing panel.",
                 "section": "billing",
                 "path": "billing/cancel-paypal-sub"
+            },
+            {
+                "slug": "cancel-request",
+                "title": "Cancel a Request",
+                "description": "This article will guide you on how to cancel a cancellation request in the billing panel.",
+                "section": "billing",
+                "path": "billing/cancel-request"
+            },
+            {
+                "slug": "server-config",
+                "title": "Server Configuration",
+                "description": "This article will guide you on how to configure your server in the billing panel.",
+                "section": "billing",
+                "path": "billing/server-config"
             }
         ]
     },
@@ -38,12 +52,48 @@
                 "description": "This article will guide you on how to manage files in the client panel.",
                 "section": "panel",
                 "path": "panel/managing-files"
+            },
+            {
+                "slug": "automated-schedule",
+                "title": "Automated Schedule",
+                "description": "This article will guide you on how to set up an automated schedule in the client panel.",
+                "section": "panel",
+                "path": "panel/automated-schedule"
+            },
+            {
+                "slug": "minecraft-proxy",
+                "title": "Minecraft Proxy",
+                "description": "This article will guide you on how to set up a Minecraft proxy in the client panel.",
+                "section": "panel",
+                "path": "panel/minecraft-proxy"
+            },
+            {
+                "slug": "mysql-database",
+                "title": "MySQL Database",
+                "description": "This article will guide you on how to create a MySQL database in the client panel.",
+                "section": "panel",
+                "path": "panel/mysql-database"
+            },
+            {
+                "slug": "server-splitting",
+                "title": "Server Splitting",
+                "description": "This article will guide you on how to split a server in the client panel.",
+                "section": "panel",
+                "path": "panel/server-splitting"
             }
         ]
     },
     {
         "section": "Trouble Shooting",
         "about": "This section contains articles related to troubleshooting.",
-        "articles": []
+        "articles": [
+            {
+                "slug": "console-not-loading",
+                "title": "Console Not Loading",
+                "description": "This article will guide you on how to fix the console not loading issue.",
+                "section": "trouble-shooting",
+                "path": "trouble-shooting/console-not-loading"
+            }
+        ]
     }
 ]
