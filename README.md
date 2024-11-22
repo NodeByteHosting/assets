@@ -55,6 +55,7 @@ The repository is organized into the following folders:
 
 - `markdown/kb`: Contains markdown files for the knowledge base.
 - `markdown/legal`: Contains markdown files for legal documents (e.g., privacy policy, terms of service).
+- `markdown/kb/articles.json`: Contains all the file information for the knowledge base files.
 
 ## Markdown Guidelines
 
@@ -68,6 +69,9 @@ When contributing markdown files, please follow these guidelines:
     ```markdown
     ![Alt text](path/to/image.png)
     ```
+
+## Knowledge Base Articles
+All of our knowledge base articles can be found at [markdown/kb](./markdown/kb/), when creating a new article please make sure to add its necessary data in the [articles.json](./markdown/kb/articles.json) file. The layout provided in this `json` file should be followed at all times or issues will arise with the website!
 
 ## License
 
