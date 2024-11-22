@@ -1,0 +1,49 @@
+[
+    {
+        "section": "Billing Panel",
+        "about": "This section contains articles related to the billing panel.",
+        "slug": "billing",
+        "articles": [
+            {
+                "slug": "cancel-a-service",
+                "title": "Canceling a Service",
+                "description": "This article will guide you on how to cancel a service in the billing panel.",
+                "section": "billing",
+                "path": "billing/cancel-a-service"
+            },
+            {
+                "slug": "changing-your-plan",
+                "title": "Changing your Plan",
+                "description": "This article will guide you on how to upgrade or downgrade a service in the billing panel.",
+                "section": "billing",
+                "path": "billing/changing-your-plan"
+            },
+            {
+                "slug": "cancel-paypal-sub",
+                "title": "PayPal Subscription(s)",
+                "description": "This article will guide you on how to cancel a PayPal subscription in the billing panel.",
+                "section": "billing",
+                "path": "billing/cancel-paypal-sub"
+            }
+        ]
+    },
+    {
+        "section": "Client Panel",
+        "about": "This section contains articles related to the client panel.",
+        "slug": "panel",
+        "articles": [
+            {
+                "slug": "managing-files",
+                "title": "Managing Files",
+                "description": "This article will guide you on how to manage files in the client panel.",
+                "section": "panel",
+                "path": "panel/managing-files"
+            }
+        ]
+    },
+    {
+        "section": "Trouble Shooting",
+        "about": "This section contains articles related to troubleshooting.",
+        "articles": []
+    }
+]
