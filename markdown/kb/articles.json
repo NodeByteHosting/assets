@@ -42,44 +42,44 @@
         ]
     },
     {
-        "section": "Client Panel",
+        "section": "Game Hosting",
         "about": "This section contains articles related to the client panel.",
-        "slug": "panel",
+        "slug": "game-hosting",
         "articles": [
             {
                 "slug": "managing-files",
                 "title": "Managing Files",
                 "description": "This article will guide you on how to manage files in the client panel.",
-                "section": "panel",
-                "path": "panel/managing-files"
+                "section": "game-hosting",
+                "path": "game-hosting/managing-files"
             },
             {
                 "slug": "automated-schedule",
                 "title": "Automated Schedule",
                 "description": "This article will guide you on how to set up an automated schedule in the client panel.",
-                "section": "panel",
-                "path": "panel/automated-schedule"
+                "section": "game-hosting",
+                "path": "game-hosting/automated-schedule"
             },
             {
                 "slug": "minecraft-proxy",
                 "title": "Minecraft Proxy",
                 "description": "This article will guide you on how to set up a Minecraft proxy in the client panel.",
-                "section": "panel",
-                "path": "panel/minecraft-proxy"
+                "section": "game-hosting",
+                "path": "game-hosting/minecraft-proxy"
             },
             {
                 "slug": "mysql-database",
                 "title": "MySQL Database",
                 "description": "This article will guide you on how to create a MySQL database in the client panel.",
-                "section": "panel",
-                "path": "panel/mysql-database"
+                "section": "game-hosting",
+                "path": "game-hosting/mysql-database"
             },
             {
                 "slug": "server-splitting",
                 "title": "Server Splitting",
                 "description": "This article will guide you on how to split a server in the client panel.",
-                "section": "panel",
-                "path": "panel/server-splitting"
+                "section": "game-hosting",
+                "path": "game-hosting/server-splitting"
             }
         ]
     },
@@ -94,6 +94,20 @@
                 "description": "This article will guide you on how to fix the console not loading issue.",
                 "section": "trouble-shooting",
                 "path": "trouble-shooting/console-not-loading"
+            }
+        ]
+    },
+    {
+        "section": "VPS Hosting",
+        "about": "This section contains articles related to VPS Hosting.",
+        "slug": "vps-hosting",
+        "articles": [
+            {
+                "slug": "how-to-setup-your-vps",
+                "title": "How to setup your VPS Hosting",
+                "description": "This article will guide you on how to setup your VPS hosting plans.",
+                "section": "vps-hosting",
+                "path": "vps-hosting/how-to-setup-your-vps"
             }
         ]
     }
