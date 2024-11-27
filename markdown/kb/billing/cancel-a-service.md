@@ -1,45 +1,37 @@
-# Table of Contents
+# Requesting a cancellation. 
 
-- [Why Cancel a Service?](#why-cancel-a-service)
-- [Accessing the Billing Panel](#accessing-the-billing-panel)
-- [Canceling a Service](#canceling-a-service)
-- [Confirming Cancellation](#confirming-cancellation)
-- [Conclusion](#conclusion)
+To request a cancellation of your service, please head over to your [service page](https://billing.nodebyte.host/clientarea.php?action=services).
 
-## Why Cancel a Service?
+WARNING: Before cancelling your service please ensure you download a backup of your service as once the cancellation is processed all your data will be DELETED.
 
-You might need to cancel a service for several reasons:
+Click into your service that you would like to cancel and head over to "Cancellation Request"
 
-- **No longer needed**: If you no longer need the service, canceling it will help you avoid further charges.
-- **Switching providers**: If you are changing to a different service provider, you may want to cancel your current service.
-- **Budget management**: Canceling unused services can help you manage your budget more effectively.
+![](https://nodebyte.host/kb/billing/button.png)
 
-## Accessing the Billing Panel
+Fill in the form to cancel your request. 
 
-To cancel your service, you need to access the NodeByte billing panel:
+For Cancellation Type, you can put either "Immediate" or "End of Billing Period"
 
-1. **Visit the NodeByte Billing Panel**: Go to [NodeByte.host](https://NodeByte.host).
-2. **Log in**: Use your NodeByte account credentials to log in to your account.
-3. **Navigate to Services**: Once logged in, go to the **Services** section to view your current services.
+- Immediate: Your service will be cancelled immediatly. Had your service less then 3 days? Ensure you request a refund inline with our [refund policy](https://nodebyte.host/legal/refunds)
 
-## Canceling a Service
+- End of Billing Period: Your cancellation will be processed at the end of your billing cycle. Paid by PayPal? Follow our guide on cancelling the subcription. You can find this [here](). Stripe and Debit/Credit card automatically cancelled and won't be charged.
 
-To cancel a service:
+Once you filled in the form click on "Requestion Cancellation" button
 
-1. **Select the Service**: In the **Services** section, locate the service you wish to cancel.
-2. **Request Cancellation**: Click on the service and find the option to request cancellation.
-3. **Choose Cancellation Type**: Select the type of cancellation (e.g., immediate or end-of-billing cycle).
-4. **Provide a Reason (if required)**: You may be asked to provide a reason for the cancellation.
-5. **Submit the Request**: Confirm your cancellation request and submit it.
+![](https://nodebyte.host/kb/billing/redbutton.png)
 
-## Confirming Cancellation
+# Cancelling PayPal subcription
 
-After submitting your cancellation request:
+This is important to do as failing to do this will result in you still being charged. Our Finance Team check the cancellions and cancel them on your behalf, but this may now always be the case.
 
-1. **Check your email**: You will receive a confirmation email from NodeByte verifying your cancellation.
-2. **Review your account**: Make sure the service no longer appears in your active services list.
-3. **Monitor final billing**: Pay attention to your final invoice to ensure that you are charged correctly.
+1. Log into your payal
+2. Click on the settings icon (Gear) at the top right of the page
+3. Go to the "Payments" tab
+4. Search for "NodeByte LTD"
+5. Cancel the pre-approved service.
 
-## Conclusion
+Once done you will no longer be charged for any services. 
 
-You've now learned how to cancel a service using the NodeByte billing panel. This can help you avoid further charges for services you no longer need. If you have any further questions or need assistance, please contact our support team.
+# Support
+
+Need any help? No problem, please reach our [support team](https://billing.nodebyte.host/submitticket.php) and we will help you. 

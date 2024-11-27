@@ -6,38 +6,31 @@
         "articles": [
             {
                 "slug": "cancel-a-service",
-                "title": "Canceling a Service",
+                "title": "How To Request a Cancellation",
                 "description": "This article will guide you on how to cancel a service in the billing panel.",
                 "section": "billing",
                 "path": "billing/cancel-a-service"
             },
             {
                 "slug": "changing-your-plan",
-                "title": "Changing your Plan",
+                "title": "How to upgrade/downgrade your plan",
                 "description": "This article will guide you on how to upgrade or downgrade a service in the billing panel.",
                 "section": "billing",
                 "path": "billing/changing-your-plan"
             },
             {
-                "slug": "cancel-paypal-sub",
-                "title": "PayPal Subscription(s)",
-                "description": "This article will guide you on how to cancel a PayPal subscription in the billing panel.",
-                "section": "billing",
-                "path": "billing/cancel-paypal-sub"
-            },
-            {
-                "slug": "cancel-request",
-                "title": "Cancel a Request",
-                "description": "This article will guide you on how to cancel a cancellation request in the billing panel.",
-                "section": "billing",
-                "path": "billing/cancel-request"
-            },
-            {
                 "slug": "server-config",
-                "title": "Server Configuration",
+                "title": "How to upgrade/downgrade your plan options",
                 "description": "This article will guide you on how to configure your server in the billing panel.",
                 "section": "billing",
                 "path": "billing/server-config"
+            },
+            {
+                "slug": "manage-subusers-on-billing",
+                "title": "How to manage sub users",
+                "description": "This article will guide you on how to manage sub users in your billing panel.",
+                "section": "billing",
+                "path": "billing/manage-subusers-on-billing"
             }
         ]
     },
