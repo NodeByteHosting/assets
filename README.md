@@ -73,10 +73,6 @@ When contributing markdown files, please follow these guidelines:
 ## Knowledge Base Articles
 All of our knowledge base articles can be found at [markdown/kb](./markdown/kb/), when creating a new article please make sure to add its necessary data in the [articles.json](./markdown/kb/articles.json) file. The layout provided in this `json` file should be followed at all times or issues will arise with the website!
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ---
 
 Thank you for contributing to the NodeByte Assets repository! If you have any questions or need assistance, feel free to open an issue or contact us.
