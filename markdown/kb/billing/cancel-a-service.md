@@ -22,7 +22,7 @@ Once you filled in the form click on "Requestion Cancellation" button
 
 # Cancelling PayPal subcription
 
-This is important to do as failing to do this will result in you still being charged. Our Finance Team check the cancellions and cancel them on your behalf, but this may now always be the case.
+This is important to do as failing to do this will result in you still being charged. Our Finance Team check the cancellions and cancel them on your behalf, but this may not always be the case.
 
 1. Log into your payal
 2. Click on the settings icon (Gear) at the top right of the page
