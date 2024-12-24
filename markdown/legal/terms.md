@@ -108,7 +108,7 @@ Users must not engage in any activities that may interfere with the operation of
 
 ## Copyright Policy
 Copyright Complaints &amp; DMCA Policy
-We respect the intellectual property rights of others and expect our/it’s users to do the same. We will respond to notices of alleged copyright infringement in accordance with the Digital Millenium Copyright Act (“DMCA”).
+We respect the intellectual property rights of others and expect our/it’s users to do the same. We will respond to notices of alleged copyright infringement in accordance with the Digital Millenium Copyright Act (“DMCA”) Please see the following: [DMCA Policy](https://nodebyte.host/legal/dmca).
 
 ## DMCA Notice of Alleged Infringement (“Notice”)
 To file a notice of Infringing Material, please provide a notification containing the following details:
@@ -196,5 +196,5 @@ Account Usage and Responsibility - You are solely responsible for the activity t
 
 ## Contact Information
 If you have any questions or concerns regarding these Terms of Service or any aspect of your service that you receive, please contact us using one of the following methods:
-Emmail: [Data Protection](mailto:lossprevention@nodebyte.host)
+Email: [Legal](mailto:legal@nodebyte.co.uk)
 We are committed to providing the best service possible. Our response times may vary depending on the nature of your inquiry and the volume of queries we receive.
