@@ -28,4 +28,4 @@ Our accounts team will review the request and respond within a reasonable timefr
 Note: NodeByte Hosting reserves the right to modify or update this refund policy at any time without prior notice. Customers are encouraged to review the policy periodically for any changes or updates.
 By utilizing our services, customers acknowledge and agree to abide by the terms outlined in this refund policy.
 
-This refund policy is effective as of: 17th March 2024 and applies to all transactions made thereafter. For a refund request or inquiries related to our Refund Policy, Please contact our accounts team: [Accounts](mailto:accounts@nodebyte.host), Our Accounts Team will get back to you within the **24 Hours** your request was sent.
+This refund policy is effective as of: 17th March 2024 and applies to all transactions made thereafter. For a refund request or inquiries related to our Refund Policy, Please contact our accounts team: [Accounts](mailto:accounts@nodebyte.co.uk), Our Accounts Team will get back to you within the **24 Hours** your request was sent.
