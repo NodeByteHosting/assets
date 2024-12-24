@@ -47,6 +47,6 @@ Any person who knowingly makes a material misrepresentation in a DMCA notificati
 For submitting DMCA notifications or counter-notifications, or for further inquiries about this policy or the DMCA process, please use the following contact information:
 
 - Name: Connor H
-- Email: [DMCA](mailto:dmca@nodebyte.co.uk)
+- Email: [Legal](mailto:legal@nodebyte.co.uk)
 - Mailing Address: 20 Wenlock Road, London, England, N1 7GU
 - Telephone Number: +44 7852 141509 
