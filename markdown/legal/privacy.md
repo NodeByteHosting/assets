@@ -71,11 +71,11 @@ Regular Compliance Reviews: Regularly review and update NodeByte Hosting data pr
 
 It's important to note that GDPR compliance is an ongoing process, and organizations like NodeByte Hosting should continuously monitor and adapt their data protection measures to address evolving risks and regulatory requirements. Additionally, consulting with legal and privacy professionals familiar with GDPR can provide valuable guidance and support in ensuring compliance.
 
-Email: [GDPR](mailto:gdpr@nodebyte.co.uk) for more information.
+Email: [Legal](mailto:legal@nodebyte.co.uk) for more information.
 
 ## Changes to This Privacy Policy
 
 We may update this Privacy Policy to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any significant changes by posting a prominent notice on our website or by sending you an email. You are advised to review this Privacy Policy periodically to stay informed about how we collect, use, and protect your information.
 
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [GDPR](mailto:gdpr@nodebyte.co.uk)
+If you have any questions or concerns about this Privacy Policy, please contact us at [Legal](mailto:legal@nodebyte.co.uk)
