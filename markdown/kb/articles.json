@@ -3,7 +3,36 @@
         "section": "Billing Panel",
         "about": "This section contains articles related to the billing panel.",
         "slug": "billing",
-        "articles": []
+        "articles": [
+            {
+                "slug": "cancel-a-service",
+                "title": "How To Request a Cancellation",
+                "description": "This article will guide you on how to cancel a service in the billing panel.",
+                "section": "billing",
+                "path": "billing/cancel-a-service"
+            },
+            {
+                "slug": "changing-your-plan",
+                "title": "How to upgrade/downgrade your plan",
+                "description": "This article will guide you on how to upgrade or downgrade a service in the billing panel.",
+                "section": "billing",
+                "path": "billing/changing-your-plan"
+            },
+            {
+                "slug": "server-config",
+                "title": "How to upgrade/downgrade your plan options",
+                "description": "This article will guide you on how to configure your server in the billing panel.",
+                "section": "billing",
+                "path": "billing/server-config"
+            },
+            {
+                "slug": "manage-subusers-on-billing",
+                "title": "How to manage sub users",
+                "description": "This article will guide you on how to manage sub users in your billing panel.",
+                "section": "billing",
+                "path": "billing/manage-subusers-on-billing"
+            }
+        ]
     },
     {
         "section": "Game Hosting",
