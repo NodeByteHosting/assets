@@ -101,6 +101,13 @@
                 "description": "This article will guide you on how to use the Mod Installer in the client panel.",
                 "section": "game-hosting",
                 "path": "game-hosting/mod-installer"
+            },
+            {
+                "slug": "server-importer",
+                "title": "Server Importer",
+                "description": "This article will guide you on how to use the Server Importer in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/server-importer"
             }
         ]
     },
