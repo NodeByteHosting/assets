@@ -73,6 +73,34 @@
                 "description": "This article will guide you on how to split a server in the client panel.",
                 "section": "game-hosting",
                 "path": "game-hosting/server-splitting"
+            },
+            {
+                "slug": "player-manager",
+                "title": "Player Manager",
+                "description": "This article will guide you on how to manage players in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/player-manager"
+            },
+            {
+                "slug": "version-manager",
+                "title": "Version Manager",
+                "description": "This article will guide you on how to change Minecraft Versions in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/version-manager"
+            },
+            {
+                "slug": "plugin-manager",
+                "title": "Plugin Manager",
+                "description": "This article will guide you on how to use the Plugin Manager in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/plugin-manager"
+            },
+            {
+                "slug": "mod-installer",
+                "title": "Mod Installer",
+                "description": "This article will guide you on how to use the Mod Installer in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/mod-installer"
             }
         ]
     },
