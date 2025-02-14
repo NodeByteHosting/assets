@@ -1,4 +1,4 @@
-name: Validate articles.json
+name: Validate Knowledge Base Layout
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
       - 'markdown/kb/articles.json'
 
 jobs:
-  validate-json:
+  validate-kb:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,5 +24,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Validate articles.json
+      - name: Validate Knowledge Base JSON Schema
         run: node validation/kb_layout.js

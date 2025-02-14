@@ -9,7 +9,7 @@ on:
       - 'markdown/pulse/articles.json'
 
 jobs:
-  validate-json:
+  validate-pulse:
     runs-on: ubuntu-latest
 
     steps:
