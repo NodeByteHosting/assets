@@ -1,0 +1,11 @@
+{
+    "name": "@nbh/assets",
+    "scripts": {
+        "validate:kb": "node validation/kb_layout.js",
+        "validate:pulse": "node validation/pulse_layout.js"
+    },
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "path": "^0.12.7"
+    }
+}

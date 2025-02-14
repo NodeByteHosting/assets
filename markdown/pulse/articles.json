@@ -1,0 +1,16 @@
+[
+    {
+        "slug": "pulse",
+        "title": "Community Pulse",
+        "description": "Stay up to date with our latest news and updates.",
+        "sections": [
+            {
+                "title": "Panel Updates",
+                "description": "This section will detail our latest panel updates and future plans.",
+                "path": "pulse/panel",
+                "slug": "panel",
+                "data": []
+            }
+        ]
+    }
+]
