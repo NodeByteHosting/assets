@@ -1,5 +1,5 @@
 {
-  "logo": "./Cascade.png",
-  "banner": "./CascadeBanner.png",
+  "logo": "Cascade.png",
+  "banner": "CascadeBanner.png",
   "footer": "© 2025 NodeByte LTD"
 }
