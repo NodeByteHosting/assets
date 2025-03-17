@@ -158,6 +158,9 @@ Payment Terms
 Payment for services provided must be made by one of the accepted payment methods by us. You are responsible for providing valid and current payment information and for ensuring funds are available to complete the transaction.
 Should automatic billing fail to occur for any reason, the Company will issue an electronic invoice indicating that you must proceed manually, within a certain timeframe, with the full payment corresponding to the billing period as indicated on the invoice.
 
+## Free Trial:
+When using our 7 days free trial, you must ensure you keep a copy of your data. If you wish to continue your subscription you will need to upgradge this. 
+
 ## Subscription Period:
 The subscription period begins upon initial purchase and activation of the Service and will continue to renew every 30 days until Cancelled by You.
 
