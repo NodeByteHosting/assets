@@ -56,7 +56,7 @@ Other Purposes: At NodeByte Hosting we may use your information for other purpos
 
 ## General Data Protection Regulation (GDPR)
 
-Here at NodeByte Hosting we take massive pride in our GDPR Policy. We strongly advise you read reach point of the GDPR.
+Here at NodeByte Hosting we take massive pride in our GDPR Policy. We strongly advise you read each point of the GDPR rights.
 Ensuring GDPR compliance for a service like NodeByte Hosting, presumably a hosting service, involves several key steps to protect the personal data of users and clients. Here&apos;s a general overview of what would be involved:
 Your Consent: At NodeByte Hosting when signing up to our hosting website you are agreeing that processing Your Personal Data for one or more specific purposes. 
 Request access to Your Personal Data: You have the right to access your data we store at NodeByte Hosting if you do please email:[GDPR](mailto:gdpr@nodebyte.co.uk), you will get a copy of you information.
