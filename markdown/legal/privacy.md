@@ -1,10 +1,12 @@
+## Last Updated: Friday 21st March 2025
+
 ## Information
 
 NodeByte Hosting ('us', 'we', or 'our') respects your privacy and is committed to protecting it through our compliance with this policy
-Our Privacy Policy describes the types of information we may collect from you or that you may provide when you visit the website https://nodebyte.host (the 'Website') and our practices for collecting, using, maintaining, protecting, and disclosing that information. Our polices and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+Our Privacy Policy describes the types of information we may collect from you or that you may provide when you visit the website https://nodebyte.host (the 'Website') and our practices for collecting, using, maintaining, protecting, and disclosing that information. Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy
 
-## Types of Date We Collect
+## Types of Data We Collect
 
 At NodeByte Hosting we collect your personal information while you use our services. We might ask you for you to provide certain information with us. This helps us to contact or identify you.The following information we do collect is
 First Name & Last Name
@@ -54,7 +56,7 @@ Other Purposes: At NodeByte Hosting we may use your information for other purpos
 
 ## General Data Protection Regulation (GDPR)
 
-Here at NodeByte Hosting we take massive pride into our GDPR Policy. Please ensure you take a good look into this.
+Here at NodeByte Hosting we take massive pride in our GDPR Policy. We strongly advise you read reach point of the GDPR.
 Ensuring GDPR compliance for a service like NodeByte Hosting, presumably a hosting service, involves several key steps to protect the personal data of users and clients. Here&apos;s a general overview of what would be involved:
 Your Consent: At NodeByte Hosting when signing up to our hosting website you are agreeing that processing Your Personal Data for one or more specific purposes. 
 Request access to Your Personal Data: You have the right to access your data we store at NodeByte Hosting if you do please email:[GDPR](mailto:gdpr@nodebyte.co.uk), you will get a copy of you information.
