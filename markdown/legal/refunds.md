@@ -1,3 +1,5 @@
+## Last Updated: Sunday 17th March 2024
+
 ## Eligibility for Refund
 
 Refunds are only applicable within 3 days (72 hours) of the initial purchase or renewal date.
