@@ -1,3 +1,5 @@
+## Last Updated: Friday 21st March 2025
+
 ## Introduction
 
 NodeByte Hosting ('us', 'we', or 'our') operates the website nodebyte.host (hereinafter referred to as the 'Service').
@@ -37,6 +39,6 @@ You are advised to review this Cookies Policy periodically for any changes. Chan
 
 ## Contact Us
 
-If you have any questions about our Cookies Policy, please contact us:
+If you have any questions or concerns about our Cookies Policy, please contact us:
 
 By email: [Legal](mailto:legal@nodebyte.co.uk)
