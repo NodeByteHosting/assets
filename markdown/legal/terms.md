@@ -65,7 +65,7 @@ Users must not engage in activities that adversely affect the normal operation o
 
 Our Minecraft Servers are marked with set storages depending on which plan you go for. We will only allocate another 50GB's worth of storage to users who have reached the limit. Please open a support ticket via the Billing Portal, Please **DO NOT** open a support call via discord.
 
-We allow upto 3 days from the date of commuication of the support call opened so this can be added to the following user's server.
+We allow up to 3 days from the date of communication of the support call opened so this can be added to the following user's server.
 
 As mentioned above we will only allocate additional 50GB's if we find you have a reason you need this. False reasons given we have a right to **decline** your request.  **Please provide a valid reason!**
 
