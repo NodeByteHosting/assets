@@ -1,6 +1,6 @@
-## NodeByte DMCA Policy
+## Last Updated: Sunday 24th December 2024
 
-Effective Date: 24th December 2024
+## NodeByte DMCA Policy
 
 At NodeByte ("we," "us," or "our"), we respect the intellectual property rights of others and comply with the Digital Millennium Copyright Act (DMCA). This policy outlines the procedures for addressing claims of copyright infringement on our platform.
 
@@ -49,4 +49,4 @@ For submitting DMCA notifications or counter-notifications, or for further inqui
 - Name: Connor H
 - Email: [Legal](mailto:legal@nodebyte.co.uk)
 - Mailing Address: 20 Wenlock Road, London, England, N1 7GU
-- Telephone Number: +44 7852 141509 
+- Telephone Number: 03301333079
