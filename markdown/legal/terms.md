@@ -111,7 +111,7 @@ Users must not engage in any activities that may interfere with the operation of
 
 ## Copyright Policy
 Copyright Complaints &amp; DMCA Policy
-We respect the intellectual property rights of others and expect our/it’s users to do the same. We will respond to notices of alleged copyright infringement in accordance with the Digital Millenium Copyright Act (“DMCA”) Please see the following: [DMCA Policy](https://nodebyte.host/legal/dmca).
+We respect the intellectual property rights of others and expect our/it’s users to do the same. We will respond to notices of alleged copyright infringement in accordance with the Digital Millennium Copyright Act (“DMCA”) Please see the following: [DMCA Policy](https://nodebyte.host/legal/dmca).
 
 ## DMCA Notice of Alleged Infringement (“Notice”)
 To file a notice of Infringing Material, please provide a notification containing the following details:
@@ -161,10 +161,10 @@ Payment Terms
 Payment for services provided must be made by one of the accepted payment methods by us. You are responsible for providing valid and current payment information and for ensuring funds are available to complete the transaction.
 Should automatic billing fail to occur for any reason, the Company will issue an electronic invoice indicating that you must proceed manually, within a certain timeframe, with the full payment corresponding to the billing period as indicated on the invoice.
 
-## Free Trial:
+## Free Trial
 If you are using our Free Trial for Minecraft Servers this is a 7 day trial, Once the Trial is coming to an end you will get an email to ask if you wish to cancel this or upgrade this. If you need support on this. Please get in touch with the support team. 
 
-## Subscription Period:
+## Subscription Period
 The subscription period begins upon initial purchase and activation of the Service and will continue to renew every 30 days until Cancelled by You.
 
 ## Subscription Cancellations
@@ -186,7 +186,7 @@ Refunds will not be processed for “End of Billing Period” cancellation reque
 
 ## 72 Hour Policy
 You may request a refund on the basis that you have submitted an “Immediate” cancellation request and fall within 72 hours of the initial payment, and activation of your service. Refund requests should be requested via a ticket through our billing panel. These refunds are only issued on a one-time per customer basis. Additional refund requests beyond the one-time per customer basis may be refused at the discretion of the Company.
-Refund requests that fall outside of the 72 hours may be considered by the Company on a case-by-case basis and judged at the sold discretion of the company.
+Refund requests that fall outside of the 72 hours may be considered by the Company on a case-by-case basis and judged at the sole discretion of the company.
 
 ## Chargebacks
 Initiating a chargeback will result in the immediate termination of services and a ban from all future use and purchase of the Company’s Services.
