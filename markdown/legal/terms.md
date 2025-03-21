@@ -1,3 +1,6 @@
+
+## Last Updated: Friday 21st March 2025 
+
 ## Introduction and Acceptance of Terms
 
 By accessing our website, discord, utilising our hosting services, or interacting with any aspect of NodeByte Hosting, you, the user, agree to be bound by these Terms of Service (&quot;Terms&quot;), including policies and guidelines incorporated by reference herein. These terms form a legally binding agreement between you henceforth referred to as &quot;user&quot;, &quot;client&quot;, or &quot;customer&quot; and NodeByte Hosting, henceforth referred to as &quot;Provider&quot;, &quot;Company&quot;, &quot;we&quot;, &quot;us&quot;, or &quot;our&quot;.
@@ -159,7 +162,7 @@ Payment for services provided must be made by one of the accepted payment method
 Should automatic billing fail to occur for any reason, the Company will issue an electronic invoice indicating that you must proceed manually, within a certain timeframe, with the full payment corresponding to the billing period as indicated on the invoice.
 
 ## Free Trial:
-When using our 7 days free trial, you must ensure you keep a copy of your data. If you wish to continue your subscription you will need to upgradge this. 
+If you are using our Free Trial for Minecraft Servers this is a 7 day trial, Once the Trial is coming to an end you will get an email to ask if you wish to cancel this or upgrade this. If you need support on this. Please get in touch with the support team. 
 
 ## Subscription Period:
 The subscription period begins upon initial purchase and activation of the Service and will continue to renew every 30 days until Cancelled by You.
