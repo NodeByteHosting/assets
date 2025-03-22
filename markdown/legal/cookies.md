@@ -1,5 +1,3 @@
-## Last Updated: Friday 21st March 2025
-
 ## Introduction
 
 NodeByte Hosting ('us', 'we', or 'our') operates the website nodebyte.host (hereinafter referred to as the 'Service').
