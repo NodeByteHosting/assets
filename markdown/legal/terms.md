@@ -1,6 +1,3 @@
-
-## Last Updated: Friday 21st March 2025 
-
 ## Introduction and Acceptance of Terms
 
 By accessing our website, discord, utilising our hosting services, or interacting with any aspect of NodeByte Hosting, you, the user, agree to be bound by these Terms of Service (&quot;Terms&quot;), including policies and guidelines incorporated by reference herein. These terms form a legally binding agreement between you henceforth referred to as &quot;user&quot;, &quot;client&quot;, or &quot;customer&quot; and NodeByte Hosting, henceforth referred to as &quot;Provider&quot;, &quot;Company&quot;, &quot;we&quot;, &quot;us&quot;, or &quot;our&quot;.
