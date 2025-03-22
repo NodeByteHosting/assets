@@ -1,5 +1,3 @@
-## Last Updated: Friday 21st March 2025
-
 ## Information
 
 NodeByte Hosting ('us', 'we', or 'our') respects your privacy and is committed to protecting it through our compliance with this policy
