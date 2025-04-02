@@ -27,10 +27,7 @@ The parties further agree that any arbitration shall be conducted in their indiv
 You agree to indemnify, defend, and hold harmless the company, its officers, directors, employees, agents, licensors, and suppliers from and against all losses, expenses, damages, and costs, including reasonable attorneys’ fees, resulting from any violation of these terms or any activity related to your account (including negligent, or wrongful conduct), by you or any other person accessing the service using your account.
 
 ## Description of Service
-We offer a variety of Game Hosting Services &amp; VPS Hosting; system administration tools these include but are not limited to:
-
-Minecraft Server Hosting: Hosting of virtual worlds based on the Minecraft platform.
-Virtual Private Hosting: A better way to host your products like Discord Bots &amp; Websites.
+We offer a variety of Game Hosting Services. Minecraft Server Hosting: Hosting of virtual worlds based on the Minecraft platform.
 
 
 ## Acceptable Usage Policy (AUP)
@@ -68,39 +65,6 @@ As mentioned above we will only allocate additional 50GB's if we find you have a
 
 Should a user continue to break the limits set we reserve the right to terminate their Service without notice.
 
-
-## VPS
-Please see the following information we allow and don&apos;t allow for the vps hosting.
-
-Acceptable Use:
-You agree to use our VPS hosting services for lawful purposes only. Prohibited activities include but are not limited to:
-Illegal Activities: Using the VPS for illegal activities, including but not limited to distributing copyrighted material, hosting phishing sites, or engaging in any illegal activity.
-Harmful Activities: Engaging in activities that may harm our network or infrastructure, such as sending unsolicited bulk emails (SPAM), DDoS attacks, or spreading malware.
-Resource Abuse: Excessive resource consumption that disrupts the performance of the server or impacts other users.
-NodeByte Hosting reserves the right to suspend or terminate services if any prohibited use is detected.
-
-Data and Backup:
-Data Responsibility: You are solely responsible for maintaining backups of your data. NodeByte Hosting does not guarantee the integrity or safety of your data.
-Backup Services: While we may offer optional backup services, these are not guaranteed, and users are encouraged to maintain their own backup solutions.
-
-Resource Allocation:
-Guaranteed Resources: You will receive a specific allocation of CPU, RAM, storage, and bandwidth as per your hosting plan. You may not exceed these limits without upgrading your plan.
-Upgrades and Downgrades: You may upgrade or downgrade your VPS hosting plan at any time, subject to availability and current pricing.
-
-Service Availability:
-We strive to provide 99.6% uptime for our VPS hosting services. However, service availability may be affected by factors beyond our control, such as:
-Scheduled maintenance (with prior notice).
-Unforeseen network outages or hardware failures.
-
-Suspension and Termination:
-Suspension: We reserve the right to suspend your VPS hosting services if you violate any terms of this TOS or if your use of the services poses a risk to our systems or other users.
-Termination: Either party may terminate the service with [X] days’ written notice. If you terminate the service, you must stop using the VPS hosting immediately and delete all data stored on our servers.
-
-Limitation of Liability:
-NodeByte Hosting will not be held liable for any direct, indirect, incidental, or consequential damages, including but not limited to loss of data, profits, or revenue, resulting from the use or inability to use our service.
-
-Indemnification:
-You agree to indemnify, defend, and hold harmless NodeByte Hosting, its employees, affiliates, and partners from any claims or damages arising from your use of our VPS hosting services.
 
 ## Security
 Users are responsible for maintain the security of their own hosting accounts and content. This includes using strong passwords and keeping all software on their servers up to date. Unauthorised access to other accounts or networks (Hacking) is prohibited.
