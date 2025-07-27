@@ -112,6 +112,69 @@
         ]
     },
     {
+        "section": "Minecraft",
+        "about": "This section contains articles related to Minecraft Hosting.",
+        "slug": "minecraft",
+        "articles": [
+            {
+                "slug": "player-manager",
+                "title": "Player Manager",
+                "description": "This article will guide you on how to manage players in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/player-manager"
+            },
+            {
+                "slug": "version-manager",
+                "title": "Version Manager",
+                "description": "This article will guide you on how to change Minecraft Versions in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/version-manager"
+            },
+            {
+                "slug": "plugin-manager",
+                "title": "Plugin Manager",
+                "description": "This article will guide you on how to use the Plugin Manager in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/plugin-manager"
+            },
+            {
+                "slug": "mod-installer",
+                "title": "Mod Installer",
+                "description": "This article will guide you on how to use the Mod Installer in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/mod-installer"
+            }
+        ]
+    },
+    {
+        "section": "Rust",
+        "about": "This section contains articles related to Rust Hosting.",
+        "slug": "rust",
+        "articles": [
+            {
+                "slug": "connecting-to-server",
+                "title": "Connecting to your Rust Server",
+                "description": "This article will guide you on how to connect to your Rust server.",
+                "section": "rust",
+                "path": "rust/connecting-to-server"
+            },
+            {
+                "slug": "add-additional-ports",
+                "title": "Adding Additional Ports",
+                "description": "This article will guide you on how to get additional ports for your Rust server.",
+                "section": "rust",
+                "path": "rust/add-additional-ports"
+            },
+            {
+                "slug": "enabling-rustplus",
+                "title": "Enabling Rust+",
+                "description": "This article will guide you on how to enable Rust+ for your  server.",
+                "section": "rust",
+                "path": "rust/enable-rust+"
+            }
+        ]
+    },
+    {
         "section": "Trouble Shooting",
         "about": "This section contains articles related to troubleshooting.",
         "slug": "trouble-shooting",
