@@ -187,19 +187,5 @@
                 "path": "trouble-shooting/console-not-loading"
             }
         ]
-    },
-    {
-        "section": "VPS Hosting",
-        "about": "This section contains articles related to VPS Hosting.",
-        "slug": "vps-hosting",
-        "articles": [
-            {
-                "slug": "how-to-setup-your-vps",
-                "title": "How to setup your VPS Hosting",
-                "description": "This article will guide you on how to setup your VPS hosting plans.",
-                "section": "vps-hosting",
-                "path": "vps-hosting/how-to-setup-your-vps"
-            }
-        ]
     }
 ]
